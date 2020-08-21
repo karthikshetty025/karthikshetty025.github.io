@@ -1,0 +1,118 @@
+.page1
+{
+	
+	background-image: url(../images/bgg1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	margin:20px;
+	border: 1px solid black;
+	padding:45px;
+	border-radius: 25px;
+
+}
+
+.page2
+{
+	
+	background-image: url(../images/bgg1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	margin:20px;
+	border: 1px solid black;
+	padding:45px;
+	border-radius: 25px;
+
+}
+.page3
+{
+	background-image: url(../images/bgg1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	margin:50px;
+	border: 1px solid black;
+	padding:45px;
+	border-radius: 25px;
+
+}
+.page4
+{
+	background-image: url(../images/bgg1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	margin:50px;
+	border: 1px solid black;
+	padding:45px;
+	border-radius: 25px;
+}
+
+.sect  h3{
+	color:#F60;
+	letter-spacing: 6px;
+	font-size: 30px;
+	font-family: 'TimesNewRoman';
+	text-shadow:2px 2px #000;
+}
+
+.sect{
+
+	background-color: rgba(0,0,0,0.6);
+	padding: 50px;
+	margin-top: 30px;
+
+}
+.pg1{
+	background-color: rgba(0,0,0,0.5);
+	padding: 50px;
+	margin-top: 5px;
+}
+
+
+.udp{
+	color:#000000;
+	text-align:center;
+	font-size:50px;
+	font-family:' TimesNewRoman';
+	letter-spacing: 12px;
+	
+}
+.place{
+	color:#000000;
+	letter-spacing: 3px;
+	font-size: 17px;
+	font-family: 'TimesNewRoman';
+}
+
+
+
+
+
+.main {
+	padding: 25px;
+}
+.para{
+	color:#000000;
+	letter-spacing: 3px;
+	font-size: 20px;
+	font-family: 'TimesNewRoman';
+}
+.para1{
+	color:#000000;
+	letter-spacing: 3px;
+	font-size: 20px;
+	font-family: 'TimesNewRoman';
+}
+
+.menu:hover
+{
+	background-color:#C0C0C0;
+	color:red;
+	border-radius:30px;
+}
